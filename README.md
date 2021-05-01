@@ -65,11 +65,15 @@
 
   ### <img align="left" alt="Visual Studio Code" width="100px" src="https://i.pinimg.com/originals/bf/0c/31/bf0c317e0f22fbe49b25ebd9ca40c17b.png" />  GitHub Stats:
 
-  <img align="left" alt="Sid1808-dev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sid1808-dev&show_icons=true&hide_border=true&count_private=true&theme=Gradient" />
+  [![Siddharth's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sid1808-dev)](https://github.com/anuraghazra/github-readme-stats)
   
 
+
+  ### <img align="left" alt="Visual Studio Code" width="100px" src="https://i.pinimg.com/originals/bf/0c/31/bf0c317e0f22fbe49b25ebd9ca40c17b.png" /> Top Languages:
+  
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sid1808-dev&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
+  
 [website]: https://siddharthsharma.me/
 [twitter]: https://www.facebook.com/profile.php?id=100012374717272
 [instagram]: https://www.instagram.com/siddharth9240/
