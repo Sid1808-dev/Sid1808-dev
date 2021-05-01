@@ -14,13 +14,16 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31yosp2petcp77zbekptpw4tvj7e)
 
-### <img align="left" alt="Visual Studio Code" width="100px" src="https://copyspy.org/wp-content/uploads/2019/11/get-in-touch-witht-plagiarism-tool.png" /> Connect with me:
+### <img align="left" alt="Visual Studio Code" width="100px" src="https://thumbs.dreamstime.com/b/email-marketing-internet-chatting-hours-support-get-touch-initiate-contact-us-feedback-online-form-talk-to-customers-concept-188536332.jpg" /> Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+<br />
+<br />
+<br />
 <br />
 
 ### <img align="left" alt="Visual Studio Code" width="100px" src="https://cdn.dribbble.com/users/10549/screenshots/9916149/media/a9dbfea8e23e5b8e23db142528c3bc9f.png?compress=1&resize=400x300" /> Languages and Tools:
