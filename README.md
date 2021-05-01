@@ -14,7 +14,7 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31yosp2petcp77zbekptpw4tvj7e)
 
-### Connect with me:
+###<img align="left" alt="Visual Studio Code" width="100px" src="https://copyspy.org/wp-content/uploads/2019/11/get-in-touch-witht-plagiarism-tool.png" /> Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][twitter]
