@@ -1,6 +1,6 @@
 ## Hi there, I'm Siddharth Sharma [website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://siddharthsharma.me/)
+[<img src="https://img.icons8.com/wired/64/000000/globe.png" />][website]
 
 ## I'm a Thinker, Innovator and Software Developer!!
 
@@ -10,9 +10,11 @@
 - 🥅 2021 Goals: Contribute more to Open Source projcts
 - ⚡ Fun fact: I love Astronomy
 
-### Spotify Playing 🎧
+### <img align="left" alt="Visual Studio Code" width="100px" src="https://i.pinimg.com/originals/9a/f0/21/9af02143a095506f4d6f9433bc122fb0.png" />Spotify Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31yosp2petcp77zbekptpw4tvj7e)
+
+
 
 ### <img align="left" alt="Visual Studio Code" width="100px" src="https://thumbs.dreamstime.com/b/email-marketing-internet-chatting-hours-support-get-touch-initiate-contact-us-feedback-online-form-talk-to-customers-concept-188536332.jpg" /> Connect with me:
 
@@ -56,31 +58,19 @@
 
 
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/codeSTACKr/spotify-now-playing/pull/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing)
-2. 🗣 Commented on [#1](https://github.com/codeSTACKr/spotify-now-playing/issues/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing)
-3. ❗️ Closed issue [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🗣 Commented on [#8](https://github.com/codeSTACKr/free-developer-resources/issues/8) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🗣 Commented on [#7](https://github.com/codeSTACKr/free-developer-resources/issues/7) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-<!--END_SECTION:activity-->
+
 
 </details>
 
-<details>
+
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Sid1808-dev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sid1808-dev&show_icons=true&hide_border=true" />
+  <img align="left" alt="Sid1808-dev's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Sid1808-dev&show_icons=true&hide_border=true&count_private=true&theme=Gradient" />
 
-</details>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sid1808-dev&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://siddharthsharma.me/
 [twitter]: https://www.facebook.com/profile.php?id=100012374717272
 [instagram]: https://www.instagram.com/siddharth9240/
 [linkedin]: https://www.linkedin.com/in/siddharth-sharma-1808/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+
