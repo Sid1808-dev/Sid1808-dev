@@ -69,7 +69,7 @@
   
 
 
-  ### <img align="left" alt="Visual Studio Code" width="100px" src="https://i.pinimg.com/originals/bf/0c/31/bf0c317e0f22fbe49b25ebd9ca40c17b.png" /> Top Languages:
+  ### <img align="left" alt="Visual Studio Code" width="100px" src="https://media.istockphoto.com/vectors/the-concept-of-writing-code-in-any-programming-languages-vector-id1223587014?k=6&m=1223587014&s=612x612&w=0&h=4YOxCAytCdyRi5M5BRaALHgTEx66xQIB7nkf5aHP0TI=" /> Top Languages:
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sid1808-dev&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
