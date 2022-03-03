@@ -74,7 +74,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sid1808-dev&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
   
-[website]: https://siddharthsharma.me/
+[website]: https://sid1808-dev.github.io/
 [twitter]: https://www.facebook.com/profile.php?id=100012374717272
 [instagram]: https://www.instagram.com/siddharth9240/
 [linkedin]: https://www.linkedin.com/in/siddharth-sharma-1808/
